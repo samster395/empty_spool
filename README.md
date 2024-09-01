@@ -1,6 +1,8 @@
 # Empty 3D printer filament spool weight
 Useful to work out how much filament is left on the spool.
 
+Feel free to contribute to this list: https://github.com/samster395/empty_spool
+
 |Manufacturer|Flavor (type, size, etc)|Year|Spool Weight, g|Comment|
 |---|---|---|---|---|
 |123-3D|||198||
