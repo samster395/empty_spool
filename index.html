@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<title>Empty 3D printer filament spool weight</title>
+   <style>
+      table, th, td { border: 1px solid black; border-collapse: collapse; }
+      td, th {padding: 10px;}
+   </style>
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://cdn.datatables.net/2.1.5/js/dataTables.js"></script>
+</script><link href="https://cdn.datatables.net/2.1.5/css/dataTables.dataTables.css" rel="stylesheet"><link href="https://cdn.datatables.net/buttons/3.1.2/css/buttons.dataTables.css" rel="stylesheet"><script src="https://cdn.datatables.net/buttons/3.1.2/js/dataTables.buttons.js" type="text/javascript"></script>
+<script src="https://cdn.datatables.net/buttons/3.1.2/js/buttons.dataTables.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js" type="text/javascript"></script><script src="https://cdn.datatables.net/buttons/3.1.2/js/buttons.html5.min.js" type="text/javascript"></script><script src="https://cdn.datatables.net/buttons/3.1.2/js/buttons.print.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="includes/style.css">
+
+<script>$(document).ready(function() {
+    $('#table').DataTable( {
+    layout: {
+        topStart: {
+            buttons: ['pageLength', 'copy', 'csv', 'excel', 'pdf', 'print']
+        }
+    },
+    ajax: {
+        url: 'http://127.0.0.1:5500/empty_spool_weight.json',
+        dataSrc: ''
+    },
+    columns: [
+        { data: 'Manufacturer' },
+        { data: 'Flavor (type, size, etc)' },
+        { data: 'Year' },
+        { data: 'Spool Weight, g' },
+        { data: 'Comment' }
+    ]
+    
+    } );
+
+    //$('#example').DataTable( {
+    //    "ajax": 'empty_spool_weight.json'
+    //} );
+} );
+</script>
+<div class="container-lg px-3 my-5 markdown-body">
+<h1>Empty 3D printer filament spool weight</h1>
+Useful to work out how much filament is left on the spool - <a href="https://github.com/samster395/empty_spool" target=”_blank”>Feel free to contribute to this list</a>
+<br>
+
+<table id="table" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Manufacturer</th>
+                <th>Flavor (type, size, etc)</th>
+                <th>Year</th>
+                <th>Spool Weight, g</th>
+                <th>Comment</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Manufacturer</th>
+                <th>Flavor (type, size, etc)</th>
+                <th>Year</th>
+                <th>Spool Weight, g</th>
+                <th>Comment</th>
+            </tr>
+        </tfoot>
+    </table>
+
+</div>
