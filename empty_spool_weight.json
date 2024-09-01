@@ -1,0 +1,1504 @@
+{
+   "Manufacturer": [
+      {
+         "Flavor": "Flavor (type, size, etc)",
+         "Year": "Year",
+         "Spool_Weight": "Spool_Weight, g",
+         "Comment": "Comment"
+      }
+   ],
+   "123-3D": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "198",
+         "Comment": ""
+      }
+   ],
+   "3DActive": [
+      {
+         "Flavor": "PLA, 0,5kg",
+         "Year": "2021",
+         "Spool_Weight": "195 g",
+         "Comment": "Spool by Häfner , model: SD 200/52-43K , Diameter=200 Width=44 CoreDiameter=52"
+      }
+   ],
+   "3D Online": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "227",
+         "Comment": ""
+      }
+   ],
+   "3D Ware": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "211",
+         "Comment": ""
+      }
+   ],
+   "3D-Fuel": [
+      {
+         "Flavor": "PLA, 1 KG",
+         "Year": "2021",
+         "Spool_Weight": "262",
+         "Comment": "Ribbed style sides. Very consistent weight across 7 tested spools. This is just under their claimed weight of 265g."
+      },
+      {
+         "Flavor": "PLA, 1 KG",
+         "Year": "2021",
+         "Spool_Weight": "288-294",
+         "Comment": "Solid style sides. Weight ranged across 3 samples."
+      }
+   ],
+   "3D Fuel": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "264",
+         "Comment": ""
+      }
+   ],
+   "3DFIL": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "235 g",
+         "Comment": "Diameter=200, Width=63, Core diam=54"
+      }
+   ],
+   "3dJake": [
+      {
+         "Flavor": "250g",
+         "Year": "",
+         "Spool_Weight": "108 g",
+         "Comment": "Diameter=140, Width=44, Core diam=51"
+      },
+      {
+         "Flavor": "TPU 750g",
+         "Year": "",
+         "Spool_Weight": "212 g",
+         "Comment": "Diameter=200, Width=51, Core diam=53"
+      },
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "240 g",
+         "Comment": "Diameter=200, Width=75, Core diam=52"
+      },
+      {
+         "Flavor": "2.3kg",
+         "Year": "",
+         "Spool_Weight": "605 g",
+         "Comment": "Diameter=300, Width=103, Core diam=51.5"
+      },
+      {
+         "Flavor": "4kg",
+         "Year": "",
+         "Spool_Weight": "870 g",
+         "Comment": "Diameter=350, Width=110, Core diam=51.5"
+      },
+      {
+         "Flavor": "8kg",
+         "Year": "",
+         "Spool_Weight": "1045 g",
+         "Comment": "Diameter=355, Width=182, Core diam=36"
+      }
+   ],
+   "3DO": [
+      {
+         "Flavor": "PETG, 1kg",
+         "Year": "2023",
+         "Spool_Weight": "255 g",
+         "Comment": ""
+      }
+   ],
+   "3d Online": [
+      {
+         "Flavor": "PLA 1kg",
+         "Year": "",
+         "Spool_Weight": "208 g",
+         "Comment": "Diameter=198, Width=70, Core diam=57"
+      }
+   ],
+   "Abfil": [
+      {
+         "Flavor": "750g/1kg",
+         "Year": "",
+         "Spool_Weight": "248 g",
+         "Comment": "Diameter=200, Width=67, Core diam=53"
+      }
+   ],
+   "AIO Robotics": [
+      {
+         "Flavor": "PLA 500g V1",
+         "Year": "",
+         "Spool_Weight": "115",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA 500g V2",
+         "Year": "",
+         "Spool_Weight": "210",
+         "Comment": ""
+      }
+   ],
+   "Amolen": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "190",
+         "Comment": ""
+      }
+   ],
+   "Amolen rev.2": [
+      {
+         "Flavor": "",
+         "Year": "2023",
+         "Spool_Weight": "148",
+         "Comment": ""
+      }
+   ],
+   "AmazonBasics": [
+      {
+         "Flavor": "PLA, Silk PLA",
+         "Year": "2023",
+         "Spool_Weight": "264",
+         "Comment": ""
+      }
+   ],
+   "Amazon Basics": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "200 g",
+         "Comment": "Diameter=200, Width=75, Core diam=53"
+      }
+   ],
+   "AMZ3D": [
+      {
+         "Flavor": "PETG, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "230.6 g",
+         "Comment": "Diameter=200, Width=65, Core diam=55"
+      },
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2018",
+         "Spool_Weight": "230 g",
+         "Comment": "Diameter=200, Width=65, Core diam=55"
+      }
+   ],
+   "Anet": [
+      {
+         "Flavor": "1kg PLA",
+         "Year": "",
+         "Spool_Weight": "226 g",
+         "Comment": "Diameter=200, Width=65, Core diam=56"
+      }
+   ],
+   "Arianeplast": [
+      {
+         "Flavor": "750g",
+         "Year": "",
+         "Spool_Weight": "224 g",
+         "Comment": "Diameter=200, Width=45, Core diam=55"
+      },
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "226 g",
+         "Comment": "Diameter=200, Width=65, Core diam=55"
+      },
+      {
+         "Flavor": "2,3k",
+         "Year": "",
+         "Spool_Weight": "680 g",
+         "Comment": "Diameter=300, Width=100, Core diam=55"
+      }
+   ],
+   "Atomic Filament": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2015",
+         "Spool_Weight": "319",
+         "Comment": ""
+      }
+   ],
+   "AzureFilm": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2021",
+         "Spool_Weight": "163",
+         "Comment": "Older design, they have a new one for 2022"
+      },
+      {
+         "Flavor": "1000g (and 750g wood), black with small Cores",
+         "Year": "2023",
+         "Spool_Weight": "220",
+         "Comment": "Source: AzureFilm customer support"
+      }
+   ],
+   "Basicfil": [
+      {
+         "Flavor": "PLA, 500g",
+         "Year": "2021",
+         "Spool_Weight": "187",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "225 g",
+         "Comment": "Diameter=200, Width=80, Core diam=50.5"
+      }
+   ],
+   "Bambulab": [
+      {
+         "Flavor": "1KG White plastic",
+         "Year": "2023",
+         "Spool_Weight": "207 g",
+         "Comment": "Cardboard ring in center weights 36 g so total weight is 243 g"
+      }
+   ],
+   "CC3D": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "164",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA MAX",
+         "Year": "2021",
+         "Spool_Weight": "153",
+         "Comment": "Diameter=198, Width=64, Core diam=53"
+      }
+   ],
+   "Clas Ohlson": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2021",
+         "Spool_Weight": "175",
+         "Comment": "old spool design?"
+      }
+   ],
+   "Cookiecad": [
+      {
+         "Flavor": "PLA",
+         "Year": "",
+         "Spool_Weight": "177",
+         "Comment": ""
+      }
+   ],
+   "Comgrow": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "207",
+         "Comment": ""
+      }
+   ],
+   "Coex LLC": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2020",
+         "Spool_Weight": "335",
+         "Comment": ""
+      }
+   ],
+   "COEX": [
+      {
+         "Flavor": "PLA, 1 KG",
+         "Year": "2022",
+         "Spool_Weight": "320",
+         "Comment": "They are switching to cardboard soon."
+      }
+   ],
+   "ColorFabb": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "240 g",
+         "Comment": "Diameter=200, Width=66, Core diam=62"
+      },
+      {
+         "Flavor": "2,3kg EcoPla",
+         "Year": "",
+         "Spool_Weight": "590 g",
+         "Comment": "Diameter=300, Width=100, Core diam=55"
+      }
+   ],
+   "Creality": [
+      {
+         "Flavor": "1 Kg, old",
+         "Year": "",
+         "Spool_Weight": "141",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1 Kg, new",
+         "Year": "",
+         "Spool_Weight": "est. ~200-220",
+         "Comment": "near identical design to newer Gembird spools"
+      },
+      {
+         "Flavor": "CR-PLA(PLA+)",
+         "Year": "",
+         "Spool_Weight": "140",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "138 g",
+         "Comment": "Diameter=200, Width=63, Core diam=54"
+      },
+      {
+         "Flavor": "1kg Hyper ABS",
+         "Year": "2023",
+         "Spool_Weight": "180 g",
+         "Comment": "Cardboard Spool, Diameter=200, Width=58, Core diam=88"
+      },
+      {
+         "Flavor": "1kg Hyper PLA",
+         "Year": "2024",
+         "Spool_Weight": "173 g",
+         "Comment": "Cardboard Spool, Diameter=200, Width=64, Hole diam=55"
+      }
+   ],
+   "Dagoma Chromatik": [
+      {
+         "Flavor": "750g",
+         "Year": "",
+         "Spool_Weight": "204 g",
+         "Comment": "Diameter=200, Width=52"
+      }
+   ],
+   "Dayfil": [
+      {
+         "Flavor": "1kg carton",
+         "Year": "",
+         "Spool_Weight": "190 g",
+         "Comment": "Diameter=200, Width=80, Core diam=56"
+      }
+   ],
+   "Devil Design": [
+      {
+         "Flavor": "1kg plastic",
+         "Year": "",
+         "Spool_Weight": "257 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "333g plastic",
+         "Year": "",
+         "Spool_Weight": "148 g",
+         "Comment": ""
+      }
+   ],
+   "Dikale": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "178",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Old",
+         "Year": "",
+         "Spool_Weight": "196",
+         "Comment": ""
+      }
+   ],
+   "Duramic 3D": [
+      {
+         "Flavor": "cardboard",
+         "Year": "",
+         "Spool_Weight": "132",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1kg Cardboard",
+         "Year": "2022",
+         "Spool_Weight": "136",
+         "Comment": "Diameter=200, Width=65, Core diam=55"
+      },
+      {
+         "Flavor": "PLA+, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "236",
+         "Comment": "Diameter=200, Width=67, Core diam=55"
+      }
+   ],
+   "Elegoo": [
+      {
+         "Flavor": "PLA, 1 KG",
+         "Year": "2022",
+         "Spool_Weight": "171",
+         "Comment": "Cardboard Spool"
+      }
+   ],
+   "Eono (Amazon)": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "192",
+         "Comment": "Amazon"
+      }
+   ],
+   "EPESTOEC": [
+      {
+         "Flavor": "1KG Spool, PLA",
+         "Year": "2023",
+         "Spool_Weight": "159g",
+         "Comment": "Black Spool, 5 Window"
+      }
+   ],
+   "Eryone": [
+      {
+         "Flavor": "PLA 1kg",
+         "Year": "",
+         "Spool_Weight": "216 g",
+         "Comment": "Diameter=200, Width=64, Core diam=55"
+      },
+      {
+         "Flavor": "TPU 500g",
+         "Year": "",
+         "Spool_Weight": "190 g",
+         "Comment": "Diameter=200, Width=37, Core diam=53"
+      },
+      {
+         "Flavor": "1kg spool",
+         "Year": "",
+         "Spool_Weight": "186",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA Marble, 1kg",
+         "Year": "2020",
+         "Spool_Weight": "181",
+         "Comment": "Diameter=200, Width=63, Core diam=54"
+      },
+      {
+         "Flavor": "Cardboard, 1kg",
+         "Year": "",
+         "Spool_Weight": "187",
+         "Comment": ""
+      }
+   ],
+   "eSUN": [
+      {
+         "Flavor": "PLA+, eMarble, eSilk, eTPU",
+         "Year": "",
+         "Spool_Weight": "242",
+         "Comment": "Weight is an average of 10 empty spools"
+      },
+      {
+         "Flavor": "eSilk",
+         "Year": "2021",
+         "Spool_Weight": "211",
+         "Comment": ""
+      }
+   ],
+   "eSun": [
+      {
+         "Flavor": "Transparent",
+         "Year": "",
+         "Spool_Weight": "214-220 g",
+         "Comment": "Diameter=200, Width=60, Core diam=51"
+      },
+      {
+         "Flavor": "standard",
+         "Year": "",
+         "Spool_Weight": "230 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Réutilisable",
+         "Year": "",
+         "Spool_Weight": "160g",
+         "Comment": "Diameter=200, Width=65"
+      },
+      {
+         "Flavor": "1kg noire",
+         "Year": "",
+         "Spool_Weight": "250 g",
+         "Comment": "Diameter=200, Width=64, Core diam=54"
+      },
+      {
+         "Flavor": "500g transparent",
+         "Year": "",
+         "Spool_Weight": "203 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "500g noir",
+         "Year": "",
+         "Spool_Weight": "212 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1.75mm PLA+ Grey",
+         "Year": "2023",
+         "Spool_Weight": "633",
+         "Comment": "Diameter=269, Width=102, Core diam=53"
+      },
+      {
+         "Flavor": "1.75mm ePLA-ST Grey",
+         "Year": "2022",
+         "Spool_Weight": "262",
+         "Comment": "Diameter=199, Width=65, Core diam=54"
+      },
+      {
+         "Flavor": "1.75mm PLA+ White",
+         "Year": "2022",
+         "Spool_Weight": "266",
+         "Comment": "Diameter=200, Width=64, Core diam=54"
+      },
+      {
+         "Flavor": "1.75mm ePLA+HS Black Cardboard",
+         "Year": "2023",
+         "Spool_Weight": "153",
+         "Comment": "Diameter=200, Width=63, Core diam=54"
+      }
+   ],
+   "Extrudr": [
+      {
+         "Flavor": "PLA 1,1kg",
+         "Year": "",
+         "Spool_Weight": "240 g",
+         "Comment": "Diameter=200, Width=66, Core diam=62"
+      },
+      {
+         "Flavor": "TPU 750g",
+         "Year": "",
+         "Spool_Weight": "228 g",
+         "Comment": "Diameter=200, Width=53, Core diam=53"
+      },
+      {
+         "Flavor": "Extrudr 2.5kg",
+         "Year": "",
+         "Spool_Weight": "590 g",
+         "Comment": "Diameter=300, Width=100, Core diam=55"
+      }
+   ],
+   "Fillamentum": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "233",
+         "Comment": "Craft Filament"
+      }
+   ],
+   "Filament-PM": [
+      {
+         "Flavor": "500g Spool",
+         "Year": "",
+         "Spool_Weight": "205",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1kg Spool",
+         "Year": "",
+         "Spool_Weight": "225",
+         "Comment": ""
+      }
+   ],
+   "FilamentOne": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "220",
+         "Comment": ""
+      }
+   ],
+   "Flashforge": [
+      {
+         "Flavor": "ABS, 1kg",
+         "Year": "2020",
+         "Spool_Weight": "176",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "",
+         "Spool_Weight": "175",
+         "Comment": ""
+      }
+   ],
+   "Form Futura": [
+      {
+         "Flavor": "rPLA, 750g",
+         "Year": "",
+         "Spool_Weight": "151",
+         "Comment": ""
+      }
+   ],
+   "Francemaker": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "205 g",
+         "Comment": "Diameter=200, Width=63, Core diam=52"
+      }
+   ],
+   "Francofil": [
+      {
+         "Flavor": "500g",
+         "Year": "",
+         "Spool_Weight": "227 g",
+         "Comment": "Diameter=200, Width=55, Core diam=52"
+      },
+      {
+         "Flavor": "750g-1kg",
+         "Year": "",
+         "Spool_Weight": "246 g",
+         "Comment": "Diameter=200, Width=67, Core diam=52"
+      },
+      {
+         "Flavor": "5kg-10kg",
+         "Year": "",
+         "Spool_Weight": "1050 g",
+         "Comment": "Diameter=335, Width=245, Core diam=51"
+      }
+   ],
+   "Geeetech \\ Giantarm": [
+      {
+         "Flavor": "PLA 1kg spool",
+         "Year": "",
+         "Spool_Weight": "180",
+         "Comment": ""
+      }
+   ],
+   "Geeetech": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "183 g",
+         "Comment": "Diameter=195, Width=64, Core diam=64"
+      }
+   ],
+   "Gelo": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "186",
+         "Comment": ""
+      }
+   ],
+   "Giantarm": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "197 g",
+         "Comment": "Diameter=200, Width=65, Core diam=–"
+      }
+   ],
+   "Gizmo Dorks": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "156",
+         "Comment": ""
+      }
+   ],
+   "GNVTNTP": [
+      {
+         "Flavor": "TRICOLOR CoExtruded PLA 1KG",
+         "Year": "2022",
+         "Spool_Weight": "156",
+         "Comment": "Cardboard Spool"
+      }
+   ],
+   "GoHigh": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "127 g",
+         "Comment": "Diameter=194, Width=60, Core diam=72"
+      }
+   ],
+   "Grossiste3d": [
+      {
+         "Flavor": "PLA 1kg",
+         "Year": "",
+         "Spool_Weight": "215 g",
+         "Comment": "Diameter=198, Width=65, Core diam=54"
+      },
+      {
+         "Flavor": "PLA 500g",
+         "Year": "",
+         "Spool_Weight": "208 g",
+         "Comment": "Diameter=200, Width=35, Core diam=54"
+      }
+   ],
+   "GST3D": [
+      {
+         "Flavor": "PLA 1kg",
+         "Year": "",
+         "Spool_Weight": "200 g",
+         "Comment": "Diameter=196, Width=63, Core diam=52"
+      },
+      {
+         "Flavor": "PLA 1Kg",
+         "Year": "",
+         "Spool_Weight": "212gr but other spools: 241gr",
+         "Comment": ""
+      },
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "207",
+         "Comment": ""
+      }
+   ],
+   "Hatchbox": [
+      {
+         "Flavor": "Old",
+         "Year": "",
+         "Spool_Weight": "224",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2020",
+         "Spool_Weight": "245",
+         "Comment": "Diameter=200, Width=67, Core diam=55"
+      }
+   ],
+   "HZST3D": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "177",
+         "Comment": ""
+      }
+   ],
+   "Inland": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "222",
+         "Comment": ""
+      },
+      {
+         "Flavor": "500g",
+         "Year": "",
+         "Spool_Weight": "196",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Reusable",
+         "Year": "",
+         "Spool_Weight": "205g, 240g*",
+         "Comment": "*240g with the 35g inner tube left over from Inland 1kg PLA+ Refills"
+      }
+   ],
+   "Ice": [
+      {
+         "Flavor": "750g",
+         "Year": "",
+         "Spool_Weight": "200 g",
+         "Comment": "Diameter=198, Width=56, Core diam=53"
+      }
+   ],
+   "Jayo": [
+      {
+         "Flavor": "1KG Spool, PLA",
+         "Year": "2023",
+         "Spool_Weight": "135g",
+         "Comment": "Cardboard"
+      }
+   ],
+   "KIMYA": [
+      {
+         "Flavor": "PETG-S, 750g",
+         "Year": "2023",
+         "Spool_Weight": "242 g",
+         "Comment": ""
+      }
+   ],
+   "Kingroon": [
+      {
+         "Flavor": "PLA, 1KG spool",
+         "Year": "2022",
+         "Spool_Weight": "166.6g",
+         "Comment": ""
+      }
+   ],
+   "Machines3d": [
+      {
+         "Flavor": "750g",
+         "Year": "",
+         "Spool_Weight": "203 g",
+         "Comment": "Diameter=200, Width=52, Core diam=53"
+      }
+   ],
+   "Maker Geeks": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "193 g",
+         "Comment": ""
+      }
+   ],
+   "Material4print": [
+      {
+         "Flavor": "1Kg Spool PETG",
+         "Year": "2020",
+         "Spool_Weight": "240 g",
+         "Comment": "Diameter=200, With=53, Core diam=54"
+      }
+   ],
+   "Markforged Onyx": [
+      {
+         "Flavor": "800cc/960g",
+         "Year": "",
+         "Spool_Weight": "",
+         "Comment": ""
+      }
+   ],
+   "MatterHackers": [
+      {
+         "Flavor": "build",
+         "Year": "",
+         "Spool_Weight": "250",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1kg PLA (MH Build)",
+         "Year": "2019",
+         "Spool_Weight": "228",
+         "Comment": ""
+      },
+      {
+         "Flavor": "build PLA",
+         "Year": "2022",
+         "Spool_Weight": "213",
+         "Comment": ""
+      }
+   ],
+   "MECH Solutions": [
+      {
+         "Flavor": "PLA+, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "254",
+         "Comment": "Diameter=199, Width=63, Core diam=54"
+      }
+   ],
+   "MiKA3D": [
+      {
+         "Flavor": "PLA, 500 g",
+         "Year": "",
+         "Spool_Weight": "115 g",
+         "Comment": "Same spool as AIO Robotics 500g spool"
+      }
+   ],
+   "Nanovia": [
+      {
+         "Flavor": "500g Spool",
+         "Year": "2014",
+         "Spool_Weight": "255",
+         "Comment": ""
+      },
+      {
+         "Flavor": "500g Spool",
+         "Year": "2021",
+         "Spool_Weight": "182",
+         "Comment": ""
+      },
+      {
+         "Flavor": "2kg Spool",
+         "Year": "2021",
+         "Spool_Weight": "668",
+         "Comment": ""
+      }
+   ],
+   "Neofil": [
+      {
+         "Flavor": "750g",
+         "Year": "",
+         "Spool_Weight": "210 g",
+         "Comment": "Diameter=199, Width=53, Core diam=53"
+      }
+   ],
+   "Novamaker": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "",
+         "Spool_Weight": "180",
+         "Comment": ""
+      }
+   ],
+   "Numakers": [
+      {
+         "Flavor": "PLA+, 1kg",
+         "Year": "",
+         "Spool_Weight": "200",
+         "Comment": ""
+      }
+   ],
+   "Octofiber": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "240 g",
+         "Comment": "Diameter=200, Width=55, Core diam=53"
+      }
+   ],
+   "Overture": [
+      {
+         "Flavor": "type I (1 kg), PLA, PETG",
+         "Year": "2023",
+         "Spool_Weight": "238",
+         "Comment": ""
+      },
+      {
+         "Flavor": "type II",
+         "Year": "",
+         "Spool_Weight": "187",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Cardboard",
+         "Year": "",
+         "Spool_Weight": "176",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Cardboard 2023",
+         "Year": "",
+         "Spool_Weight": "170",
+         "Comment": ""
+      }
+   ],
+   "OWL": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "",
+         "Spool_Weight": "186-190",
+         "Comment": ""
+      }
+   ],
+   "Paramount 3D": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "208",
+         "Comment": ""
+      }
+   ],
+   "Plastika Trček": [
+      {
+         "Flavor": "1kg",
+         "Year": "2019",
+         "Spool_Weight": "218",
+         "Comment": ""
+      }
+   ],
+   "PlastSpaw": [
+      {
+         "Flavor": "0,7..1kg",
+         "Year": "",
+         "Spool_Weight": "200g",
+         "Comment": "Spool have smooth sides, Diameter=200 Width=66 CoreDiameter=50"
+      }
+   ],
+   "Proto-Pasta": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "100",
+         "Comment": ""
+      }
+   ],
+   "Prusa Research": [
+      {
+         "Flavor": "Prusament 300g Mini Spool",
+         "Year": "",
+         "Spool_Weight": "130",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Prusament, PLA, 1kg",
+         "Year": "",
+         "Spool_Weight": "193",
+         "Comment": "Diameter=200, Width=72, Core diam=50"
+      },
+      {
+         "Flavor": "Prusament, PLA, 2kg",
+         "Year": "",
+         "Spool_Weight": "226-228.5",
+         "Comment": "Diameter=200, Width=123, Core diam=50"
+      },
+      {
+         "Flavor": "Made for Prusa Research",
+         "Year": "",
+         "Spool_Weight": "234",
+         "Comment": ""
+      }
+   ],
+   "Polymaker": [
+      {
+         "Flavor": "Polycast, 750g",
+         "Year": "",
+         "Spool_Weight": "224",
+         "Comment": ""
+      },
+      {
+         "Flavor": "Polyterra 1KG",
+         "Year": "",
+         "Spool_Weight": "187",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PolyTerra PLA, 1 kg",
+         "Year": "2022",
+         "Spool_Weight": "137",
+         "Comment": "Cardboard Spool, printed weight 140g"
+      }
+   ],
+   "Prima Value": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "245 g",
+         "Comment": "Diameter=200, Width=75, Core diam=53"
+      }
+   ],
+   "Prinsfil": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "",
+         "Comment": "Diameter=200, Width=57, Core diam=78"
+      }
+   ],
+   "Printed Solid": [
+      {
+         "Flavor": "PLA 1.75mm 1kg plastic spool",
+         "Year": "",
+         "Spool_Weight": "326",
+         "Comment": ""
+      }
+   ],
+   "Push Plastic": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "328",
+         "Comment": ""
+      }
+   ],
+   "Real Filament": [
+      {
+         "Flavor": "1kg, cardboard",
+         "Year": "",
+         "Spool_Weight": "208",
+         "Comment": ""
+      }
+   ],
+   "RECREUS": [
+      {
+         "Flavor": "PETG, 750g",
+         "Year": "2023",
+         "Spool_Weight": "232 g",
+         "Comment": ""
+      }
+   ],
+   "Replitech": [
+      {
+         "Flavor": "PLA 1.81kg (4Lbs) 600M Spool",
+         "Year": "2022",
+         "Spool_Weight": "178 g",
+         "Comment": "Spool size: 210mm diameter x 86mm width; Center Core: 52mm diameter"
+      }
+   ],
+   "Redline Filament": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "200 g",
+         "Comment": ""
+      }
+   ],
+   "Renkforce": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "",
+         "Spool_Weight": "179",
+         "Comment": ""
+      }
+   ],
+   "Repkord": [
+      {
+         "Flavor": "PLA",
+         "Year": "",
+         "Spool_Weight": "193",
+         "Comment": ""
+      }
+   ],
+   "Rosa3d": [
+      {
+         "Flavor": "PLA-PETG-800g",
+         "Year": "",
+         "Spool_Weight": "231 g",
+         "Comment": "Diameter=200, Width=53, Core diam=53"
+      },
+      {
+         "Flavor": "800g transparente",
+         "Year": "",
+         "Spool_Weight": "242 g",
+         "Comment": "Diameter=?, Width=?, Core diam=?"
+      }
+   ],
+   "RS Pro": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "237 g",
+         "Comment": "Diameter=200, Width=75, Core diam=53"
+      }
+   ],
+   "Sainsmart": [
+      {
+         "Flavor": "TPU 800g",
+         "Year": "",
+         "Spool_Weight": "187 g",
+         "Comment": "Diameter=200, Width=62, Core diam=57"
+      },
+      {
+         "Flavor": "TPU 250g",
+         "Year": "",
+         "Spool_Weight": "108 g",
+         "Comment": "Diameter=155, Width=37, Core diam=54"
+      }
+   ],
+   "Sakata": [
+      {
+         "Flavor": "1kg HR870",
+         "Year": "",
+         "Spool_Weight": "257 g",
+         "Comment": "Diameter=200, Width=66, Core diam=53"
+      }
+   ],
+   "SIMAX3D": [
+      {
+         "Flavor": "PLA 1kg",
+         "Year": "2020",
+         "Spool_Weight": "202",
+         "Comment": "Diameter=200, Width=74, Core diam=53"
+      }
+   ],
+   "Smart Materials (Makershop)": [
+      {
+         "Flavor": "PLA 750g",
+         "Year": "",
+         "Spool_Weight": "240 g",
+         "Comment": "Diameter=200, Width=53, Core diam=53"
+      }
+   ],
+   "Sunlu": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "150",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA+ 1kg",
+         "Year": "2023",
+         "Spool_Weight": "132",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA+ 1kg",
+         "Year": "2023",
+         "Spool_Weight": "155",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA+ old",
+         "Year": "",
+         "Spool_Weight": "145 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PETG 1kg",
+         "Year": "",
+         "Spool_Weight": "130 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "133",
+         "Comment": ""
+      },
+      {
+         "Flavor": "250g spool",
+         "Year": "",
+         "Spool_Weight": "55",
+         "Comment": ""
+      }
+   ],
+   "Sunlu Masterspool": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "200 g",
+         "Comment": ""
+      }
+   ],
+   "Steadytech": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "179",
+         "Comment": ""
+      }
+   ],
+   "StrongHero3D": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "151",
+         "Comment": ""
+      }
+   ],
+   "Spectrum": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "247",
+         "Comment": ""
+      }
+   ],
+   "3D Solutech": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "173",
+         "Comment": ""
+      }
+   ],
+   "SK-Honpo": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "171",
+         "Comment": "Japanese distributor"
+      }
+   ],
+   "Stronghero3D": [
+      {
+         "Flavor": "Black Spool, 1 kg, 4 windows",
+         "Year": "2022",
+         "Spool_Weight": "154",
+         "Comment": "Black Spool, 4 windows (with bars)"
+      },
+      {
+         "Flavor": "Black Spool, 1 kg, 5 windows",
+         "Year": "2022",
+         "Spool_Weight": "123",
+         "Comment": "Black Spool, 5 windows"
+      },
+      {
+         "Flavor": "Clear Spool, 1 kg, 5 windows",
+         "Year": "2022",
+         "Spool_Weight": "121",
+         "Comment": "Clear Spool, 5 windows"
+      }
+   ],
+   "Suntop": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "177",
+         "Comment": ""
+      }
+   ],
+   "Sparta ABS+": [
+      {
+         "Flavor": "ABS+",
+         "Year": "2022",
+         "Spool_Weight": "157",
+         "Comment": "Clear Spool"
+      }
+   ],
+   "SOBV3D": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "210 g",
+         "Comment": "Diameter=199, Width=70, Core diam=51"
+      },
+      {
+         "Flavor": "1kg Démontable",
+         "Year": "",
+         "Spool_Weight": "152 g",
+         "Comment": "Diameter=200, Width=71, Core diam=52"
+      }
+   ],
+   "TecBears": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "133",
+         "Comment": "seems to be Sunlu spool"
+      }
+   ],
+   "Thumwan": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "192 g",
+         "Comment": "Diameter=199, Width=66, Core diam=54"
+      }
+   ],
+   "Tianse": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2021",
+         "Spool_Weight": "180",
+         "Comment": "Diameter=196, Width=60, Core diam=75"
+      }
+   ],
+   "Tinmorry": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "186 g",
+         "Comment": "Diameter=198, Width=65, Core diam=55"
+      },
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "184",
+         "Comment": "Similar to Eryone"
+      }
+   ],
+   "Torwell3D": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2020",
+         "Spool_Weight": "185",
+         "Comment": ""
+      }
+   ],
+   "TTYT3D": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "173",
+         "Comment": "Similar to DO3D Spool"
+      },
+      {
+         "Flavor": "1KG cardboard",
+         "Year": "2023",
+         "Spool_Weight": "121 g",
+         "Comment": ""
+      }
+   ],
+   "Verbatim": [
+      {
+         "Flavor": "PETG 1kg",
+         "Year": "",
+         "Spool_Weight": "238 g",
+         "Comment": "Diameter=200, Width=75, Core diam=52"
+      }
+   ],
+   "Voolt3D": [
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "209",
+         "Comment": "Brazilian manufacturer"
+      }
+   ],
+   "Voxelab": [
+      {
+         "Flavor": "PLA Pro, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "172",
+         "Comment": ""
+      },
+      {
+         "Flavor": "PLA, 1kg",
+         "Year": "2022",
+         "Spool_Weight": "137",
+         "Comment": ""
+      }
+   ],
+   "Wanhao": [
+      {
+         "Flavor": "1kg",
+         "Year": "",
+         "Spool_Weight": "239 g",
+         "Comment": "Diameter=195, Width=57"
+      }
+   ],
+   "Warhorse": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "133",
+         "Comment": "seems to be Sunlu spool"
+      }
+   ],
+   "Yoyi": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "175g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "TPU",
+         "Year": "",
+         "Spool_Weight": "169 g",
+         "Comment": ""
+      }
+   ],
+   "Yuaneang": [
+      {
+         "Flavor": "1kg PLA",
+         "Year": "2018",
+         "Spool_Weight": "202 g",
+         "Comment": "Solid plastic spool."
+      }
+   ],
+   "Zyltech": [
+      {
+         "Flavor": "PLA, 1 KG",
+         "Year": "2022",
+         "Spool_Weight": "94",
+         "Comment": "5 Spoke plastic spool."
+      }
+   ],
+   "Ziro": [
+      {
+         "Flavor": "",
+         "Year": "",
+         "Spool_Weight": "226",
+         "Comment": ""
+      }
+   ],
+   "Zortrax": [
+      {
+         "Flavor": "800g",
+         "Year": "",
+         "Spool_Weight": "183 g",
+         "Comment": ""
+      },
+      {
+         "Flavor": "1Kg",
+         "Year": "",
+         "Spool_Weight": "178 g",
+         "Comment": ""
+      }
+   ]
+}
