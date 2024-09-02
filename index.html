@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
+<link rel="apple-touch-icon" sizes="180x180" href="includes/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="includes/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="includes/icons/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NZHTNGX170"></script>
 <script>
@@ -27,12 +31,18 @@
 </script><link href="https://cdn.datatables.net/2.1.5/css/dataTables.dataTables.css" rel="stylesheet"><link href="https://cdn.datatables.net/buttons/3.1.2/css/buttons.dataTables.css" rel="stylesheet"><script src="https://cdn.datatables.net/buttons/3.1.2/js/dataTables.buttons.js" type="text/javascript"></script>
 <script src="https://cdn.datatables.net/buttons/3.1.2/js/buttons.dataTables.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js" type="text/javascript"></script><script src="https://cdn.datatables.net/buttons/3.1.2/js/buttons.html5.min.js" type="text/javascript"></script><script src="https://cdn.datatables.net/buttons/3.1.2/js/buttons.print.min.js" type="text/javascript"></script>
 <link rel="stylesheet" href="includes/style.css">
-
 <script>$(document).ready(function() {
     $('#table').DataTable( {
     layout: {
         topStart: {
-            buttons: ['pageLength', 'copy', 'csv', 'excel', 'pdf', 'print']
+            buttons: [
+                'pageLength',
+                {
+                    extend: 'collection',
+                    text: 'Export',
+                    buttons: ['copy', 'csv', 'excel', 'pdf', 'print']
+                }
+            ] 
         }
     },
     ajax: {
@@ -52,7 +62,7 @@
 } );
 </script>
 <div class="container-lg px-3 my-5 markdown-body">
-<h1>Empty 3D printer filament spool weight</h1>
+<h3>Empty 3D printer filament spool weight</h3>
 Useful to work out how much filament is left on the spool - <a href="https://github.com/samster395/empty_spool" target=”_blank”>Feel free to contribute to this list</a>
 <br>
 
