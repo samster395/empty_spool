@@ -1,3 +1,6 @@
+# Now moved to https://github.com/emptyspool/emptyspool.github.io/
+
+
 # Empty 3D printer filament spool weight database
 Useful to work out how much filament is left on the spool.
 
